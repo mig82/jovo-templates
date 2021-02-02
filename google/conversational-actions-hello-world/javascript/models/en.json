@@ -18,20 +18,14 @@
       ]
     }
   ],
-  "inputTypes": [
-    {
-      "name": "NameInputType",
-      "values": [
-        {
-          "value": "max"
-        },
-        {
-          "value": "jane"
-        },
-        {
-          "value": "joe"
-        }
-      ]
-    }
-  ]
+  "googleAssistant": {
+    "inputTypes": [{
+        "name": "NameInputType",
+        "values": [
+          { "value": "max" },
+          { "value": "jane" },
+          { "value": "joe" }
+        ]
+    }]
+  }
 }
